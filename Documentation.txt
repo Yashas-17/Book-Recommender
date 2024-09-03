@@ -1,0 +1,2 @@
+If a book1 is rated by a user and other book, say book2 is also similarly rated by a same user ,then one can say those who like book1 will also like book2(in other words books are similar)
+--For book recommendation I can't consider the rating of one user, I should consider the ratings of users who have read good number of books and if average rating of books read by some group of users match with average rating of other book read by same group of users, then I can say that those books are similar.
